@@ -1,7 +1,5 @@
 Olá, meu nome é Bruno!
-
 Estou fazendo um curso introdutório de GIT.
-
 Estou adicionando essa nova linha
-
 Aprendendo sobre Branch.
+Adicionando mais uma linha para testar o merge
